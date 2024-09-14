@@ -24,6 +24,9 @@
 .like-icon {
   transform-origin: center;
   cursor: pointer;
+  display: block;
+  width: 36px;
+  height: 36px;
 }
 
 .sparks {
